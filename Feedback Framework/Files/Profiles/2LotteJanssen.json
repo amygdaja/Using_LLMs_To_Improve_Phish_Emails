@@ -1,0 +1,233 @@
+{
+  "name": "Lotte Janssen",
+  "levelOfInternetUsage": {
+    "dataPoints": [
+      {
+        "info": "At least medium level of internet usage as the subject likes some LinkedIn post almost every week.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lottejanssen/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Reacts swiftly according to online reviews.",
+        "year": 2022,
+        "ref": "https://www.platform.com/u/lotte-janssen/123456789/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "education": {
+    "dataPoints": [
+      {
+        "info": "University of Amsterdam, Computer Science, 2016-2020",
+        "year": 2021,
+        "ref": "https://www.linkedin.com/in/lottejanssen/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "High School, Havo, 2012-2016",
+        "year": null,
+        "ref": null,
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "culture": {
+    "dataPoints": [
+      {
+        "info": "Dutch, the subject posts LinkedIn content in Dutch and English.",
+        "year": 2020,
+        "ref": "https://www.linkedin.com/in/lottejanssen/detail/recent-activity/shares/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "age": {
+    "dataPoints": [
+      {
+        "info": "24 to 27, Based on the timeline of working/graduating high school.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lottejanssen/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "gender": {
+    "dataPoints": [
+      {
+        "info": "Female, Ms.",
+        "year": 2016,
+        "ref": "https://www.eventsite.com/event_profile.asp?evID=1966&cclid=123456789",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "workExperience": {
+    "dataPoints": [
+      {
+        "info": "Junior Software Developer, TechX, 2020-2022",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lottejanssen/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Intern, Xpertise, 2019-2020",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lottejanssen/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "role": {
+    "dataPoints": [
+      {
+        "info": "Junior Software Developer.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lottejanssen/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "yearsInCurrentCompany": {
+    "dataPoints": [
+      {
+        "info": "TechX - 2 years.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lottejanssen/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "communitiesMembership": {
+    "dataPoints": [
+      {
+        "info": "Dutch IT Professionals",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/groups/123456789/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "likesAndInterest": {
+    "dataPoints": [
+      {
+        "info": "Technology and Robotics",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lottejanssen/detail/recent-activity/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Hiking",
+        "year": 2016,
+        "ref": "https://www.outdooradventures.com/user_profiles/987654321",
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "Medium"
+  },
+  "residence": {
+    "dataPoints": [
+      {
+        "info": "Amsterdam region",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lottejanssen/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "contactsNetwork": {
+    "dataPoints": [
+      {
+        "info": "Maarten E. van Opijnen",
+        "year": 2020,
+        "ref": "https://www.linkedin.com/in/fakeuser3/detail/recent-activity/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Sanne Pronk",
+        "year": 2019,
+        "ref": "https://www.linkedin.com/in/fakeuser4/detail/recent-activity/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "Medium"
+  },
+  "workPlace": {
+    "dataPoints": [
+      {
+        "info": "TechX, Amsterdam",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lottejanssen/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "lifeEvents": {
+    "dataPoints": [
+      {
+        "info": "The subject lived a few months in Paris, France for an internship.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lottejanssen/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "The subject organized a workshop about coding in March 2021.",
+        "year": 2021,
+        "ref": "https://codingworkshop.com/event/coding-mar-2021/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  }
+}

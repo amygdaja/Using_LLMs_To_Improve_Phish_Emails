@@ -1,0 +1,241 @@
+{
+  "name": "Luna Brooks",
+  "levelOfInternetUsage": {
+    "dataPoints": [
+      {
+        "info": "At least medium level of internet usage as the subject likes some Instagram post almost every week.",
+        "year": 2022,
+        "ref": "https://www.instagram.com/lunabrooks/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "education": {
+    "dataPoints": [
+      {
+        "info": "Harvard University, started with Computer Science, then switched to Environmental Studies.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lunabrooks/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Attended Lincoln High School.",
+        "year": null,
+        "ref": null,
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "culture": {
+    "dataPoints": [
+      {
+        "info": "American, the subject posts LinkedIn content in English.",
+        "year": 2021,
+        "ref": "https://www.linkedin.com/in/lunabrooks/detail/recent-activity/shares/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "age": {
+    "dataPoints": [
+      {
+        "info": "28 to 31, Based on the timeline of working/graduating high school.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lunabrooks/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "gender": {
+    "dataPoints": [
+      {
+        "info": "Female, Ms.",
+        "year": 2017,
+        "ref": "https://www.eventsite.com/event_profile.asp?evID=1966&cclid=987654321",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "workExperience": {
+    "dataPoints": [
+      {
+        "info": "Marketing representative mainly dealing with social media in foreign countries, DEF Corp, 2015-2018",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lunabrooks/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Telemarketer, ABC Consultancy, 2018-2020",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lunabrooks/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Head of Marketing, BrightTech, 2020-Present",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lunabrooks/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "role": {
+    "dataPoints": [
+      {
+        "info": "Head of Marketing.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lunabrooks/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "yearsInCurrentCompany": {
+    "dataPoints": [
+      {
+        "info": "BrightTech - 2 years 6 months.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lunabrooks/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "communitiesMembership": {
+    "dataPoints": [
+      {
+        "info": "Tech Innovators Network",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/groups/123456789/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "likesAndInterest": {
+    "dataPoints": [
+      {
+        "info": "Sustainability",
+        "year": 2020,
+        "ref": "https://www.linkedin.com/in/lunabrooks/detail/recent-activity/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Animations and Animatronics",
+        "year": 2021,
+        "ref": "https://www.linkedin.com/in/lunabrooks/detail/recent-activity/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "Medium"
+  },
+  "residence": {
+    "dataPoints": [
+      {
+        "info": "New York region",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lunabrooks/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "San Francisco, CA",
+        "year": 2013,
+        "ref": "https://www.facebook.com/luna.brooks.5",
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "Low"
+  },
+  "contactsNetwork": {
+    "dataPoints": [
+      {
+        "info": "Lila Patel",
+        "year": 2021,
+        "ref": "https://www.linkedin.com/in/fakeuser3/detail/recent-activity/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Ethan Kim",
+        "year": 2020,
+        "ref": "https://www.linkedin.com/in/fakeuser4/detail/recent-activity/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "Medium"
+  },
+  "workPlace": {
+    "dataPoints": [
+      {
+        "info": "XYZ Corp, New York",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/fakeuser/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "ABC Inc, San Francisco",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/fakeuser/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "lifeEvents": {
+    "dataPoints": [
+      {
+        "info": "The subject organized a seminar about technology in February 2021.",
+        "year": 2021,
+        "ref": "https://techseminar.com/event/tech-feb-2021/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  }
+}

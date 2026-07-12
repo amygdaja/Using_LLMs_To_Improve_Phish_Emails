@@ -1,0 +1,166 @@
+{
+  "name": "Alessia De Santis",
+  "levelOfInternetUsage": {
+    "dataPoints": [
+      {
+        "info": "Active user of Instagram and Facebook, frequently shares personal updates and photos.  Likely spends several hours per week online.",
+        "year": 2022,
+        "ref": "https://www.instagram.com/alessiadisantis/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ]
+  },
+  "conscientiousness": {
+    "dataPoints": [
+      {
+        "info": "Demonstrates a strong sense of organization and attention to detail in her professional profile and online activities.  Posts consistently reflect a meticulous approach.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/alessiadisantis/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ]
+  },
+  "education": {
+    "dataPoints": [
+      {
+        "info": "Bachelor of Science in Environmental Engineering from the Politecnico di Milano. Graduated in 2017.",
+        "year": 2017,
+        "ref": "https://www.polimi.it/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Completed a short course in sustainable design at the Domus Academy in 2015.",
+        "year": 2015,
+        "ref": "https://www.domusacademy.com/",
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ]
+  },
+  "culture": {
+    "dataPoints": [
+      {
+        "info": "Identifies as Italian, with a strong interest in environmental issues and sustainability.  Frequently posts about eco-friendly living.",
+        "year": 2021,
+        "ref": "https://www.linkedin.com/in/alessiadisantis/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ]
+  },
+  "age": {
+    "dataPoints": [
+      {
+        "info": "Approximately 27-30 years old, based on graduation year and current professional experience.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/alessiadisantis/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "workExperience": {
+    "dataPoints": [
+      {
+        "info": "Freelance Sustainability Consultant and Environmental Advocate, specializing in eco-friendly design and policy development.  Currently working on personal projects and collaborations.",
+        "year": 2017,
+        "ref": "https://www.linkedin.com/in/alessiadisantis/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Junior Environmental Engineer at a sustainable design firm, 'EcoDesign Lab', 2019-2022.",
+        "year": 2022,
+        "ref": "https://www.ecodesignlab.com/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "role": {
+    "dataPoints": [
+      {
+        "info": "Freelance Sustainability Consultant & Environmental Advocate",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/alessiadisantis/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "yearsInCurrentCompany": {
+    "dataPoints": [
+      {
+        "info": "EcoDesign Lab - 3 years 2 months.",
+        "year": 2022,
+        "ref": "https://www.ecodesignlab.com/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "residence": {
+    "dataPoints": [
+      {
+        "info": "Currently based in Milan, Italy.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/alessiadisantis/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "contactsNetwork": {
+    "dataPoints": [
+      {
+        "info": "Lorenzo Bianchi, fellow environmental engineer and sustainability expert.",
+        "year": 2021,
+        "ref": "https://www.linkedin.com/in/lorenzobianchi/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Giulia Rossi, eco-friendly lifestyle blogger.",
+        "year": 2020,
+        "ref": "https://www.giuliarossi.it/",
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "Low"
+  },
+  "workPlace": {
+    "dataPoints": [
+      {
+        "info": "Self-employed (Freelance)",
+        "year": 2017,
+        "ref": "https://www.linkedin.com/in/alessiadisantis/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  }
+}

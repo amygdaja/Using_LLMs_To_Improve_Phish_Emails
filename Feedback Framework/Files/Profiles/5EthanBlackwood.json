@@ -1,0 +1,249 @@
+{
+  "name": "Ethan Blackwood",
+  "levelOfInternetUsage": {
+    "dataPoints": [
+      {
+        "info": "At least medium level of internet usage as the subject likes some LinkedIn post almost every week.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/ethanblackwood/detail/recent-activity/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "education": {
+    "dataPoints": [
+      {
+        "info": "Stanford University, started with Mechanical Engineering, then switched to Business Administration.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/ethanblackwood/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Attended Lincoln High School.",
+        "year": null,
+        "ref": null,
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "culture": {
+    "dataPoints": [
+      {
+        "info": "American, the subject posts LinkedIn content in English.",
+        "year": 2021,
+        "ref": "https://www.linkedin.com/in/ethanblackwood/detail/recent-activity/shares/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "age": {
+    "dataPoints": [
+      {
+        "info": "28 to 32, Based on the timeline of working/graduating high school.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/ethanblackwood/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "gender": {
+    "dataPoints": [
+      {
+        "info": "Male, Mr.",
+        "year": 2017,
+        "ref": "https://www.eventsite.com/event_profile.asp?evID=1966&cclid=987654321",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "workExperience": {
+    "dataPoints": [
+      {
+        "info": "Sales Manager mainly dealing with international trade, DEF Inc, 2015-2018",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/ethanblackwood/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Marketing Specialist, GHI Consultancy, 2018-2020",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/ethanblackwood/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Product Manager, JKL Corp, 2020-Present",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/ethanblackwood/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "role": {
+    "dataPoints": [
+      {
+        "info": "Product Manager.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/ethanblackwood/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "yearsInCurrentCompany": {
+    "dataPoints": [
+      {
+        "info": "JKL Corp - 2 years.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/ethanblackwood/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "communitiesMembership": {
+    "dataPoints": [
+      {
+        "info": "Marketing Professionals Network",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/groups/987654321/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "likesAndInterest": {
+    "dataPoints": [
+      {
+        "info": "Sports and Fitness",
+        "year": 2020,
+        "ref": "https://www.linkedin.com/in/ethanblackwood/detail/recent-activity/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Technology and Innovation",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/ethanblackwood/detail/recent-activity/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "Medium"
+  },
+  "residence": {
+    "dataPoints": [
+      {
+        "info": "San Francisco region",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/ethanblackwood/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Seattle, WA",
+        "year": 2015,
+        "ref": "https://www.facebook.com/ethan.blackwood.5",
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "Low"
+  },
+  "contactsNetwork": {
+    "dataPoints": [
+      {
+        "info": "Lucas Brooks",
+        "year": 2021,
+        "ref": "https://www.linkedin.com/in/fakeuser1/detail/recent-activity/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Emily Chen",
+        "year": 2020,
+        "ref": "https://www.linkedin.com/in/fakeuser3/detail/recent-activity/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "Medium"
+  },
+  "workPlace": {
+    "dataPoints": [
+      {
+        "info": "MNO Corp, San Francisco",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/fakeuser/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "PQR Inc, New York",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/fakeuser/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "lifeEvents": {
+    "dataPoints": [
+      {
+        "info": "The subject lived a few months in Berlin, Germany for an internship.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/fakeuser/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "The subject organized a seminar about innovation in February 2021.",
+        "year": 2021,
+        "ref": "https://innovationseminar.com/event/innovation-feb-2021/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  }
+}

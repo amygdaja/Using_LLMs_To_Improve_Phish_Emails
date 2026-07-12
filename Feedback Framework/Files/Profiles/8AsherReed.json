@@ -1,0 +1,214 @@
+{
+  "name": "Asher Reed",
+  "levelOfInternetUsage": {
+    "dataPoints": [
+      {
+        "info": "Active user of Reddit, Stack Overflow, and GitHub, with a strong focus on technical discussions and coding projects.  Spends around 5-7 hours per week online.",
+        "year": 2022,
+        "ref": "https://github.com/asherreed",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ]
+  },
+  "extraversion": {
+    "dataPoints": [
+      {
+        "info": "Exhibits introverted tendencies, preferring to work independently and focus on solo projects, but also shows a willingness to engage in online communities and collaborate with others.",
+        "year": 2021,
+        "ref": "https://www.github.com/asherreed",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ]
+  },
+  "openness": {
+    "dataPoints": [
+      {
+        "info": "Displays a high level of openness to new ideas and experiences, often exploring different programming languages, frameworks, and technologies, and sharing knowledge with others.",
+        "year": 2022,
+        "ref": "https://www.reddit.com/r/learnprogramming/comments/jj6kqp/my_experience_with_rust/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ]
+  },
+  "education": {
+    "dataPoints": [
+      {
+        "info": "Bachelor of Science in Computer Science from the University of California, Berkeley. Graduated in 2019.",
+        "year": 2019,
+        "ref": "https://www.berkeley.edu/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Completed a certification program in data science at Coursera in 2020.",
+        "year": 2020,
+        "ref": "https://www.coursera.org/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ]
+  },
+  "culture": {
+    "dataPoints": [
+      {
+        "info": "Identifies as American, with a strong interest in technology and innovation. Frequently posts about new programming languages and tools.",
+        "year": 2020,
+        "ref": "https://www.github.com/asherreed",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ]
+  },
+  "age": {
+    "dataPoints": [
+      {
+        "info": "Approximately 27-30 years old, based on graduation year and current professional experience.",
+        "year": 2022,
+        "ref": "https://www.github.com/asherreed",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "workExperience": {
+    "dataPoints": [
+      {
+        "info": "Software Engineer at a tech startup, 'CodeCraft', 2020-2022.",
+        "year": 2022,
+        "ref": "https://www.codecraft.io/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Freelance Developer, working on various projects and clients, 2019-2020.",
+        "year": 2020,
+        "ref": "https://www.freelancer.com/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "role": {
+    "dataPoints": [
+      {
+        "info": "Software Engineer & Freelance Developer",
+        "year": 2022,
+        "ref": "https://www.github.com/asherreed",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "yearsInCurrentCompany": {
+    "dataPoints": [
+      {
+        "info": "CodeCraft - 2 years.",
+        "year": 2022,
+        "ref": "https://www.codecraft.io/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "stress": {
+    "dataPoints": [
+      {
+        "info": "Reports moderate levels of stress when facing tight deadlines or complex technical challenges, but also shows a willingness to adapt and learn.",
+        "year": 2021,
+        "ref": "https://www.github.com/asherreed",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ]
+  },
+  "training": {
+    "dataPoints": [
+      {
+        "info": "Completed a certification program in cloud computing at AWS in 2021.",
+        "year": 2021,
+        "ref": "https://www.aws.training/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ]
+  },
+  "communitiesMembership": {
+    "dataPoints": [
+      {
+        "info": "Active member of the r/learnprogramming community on Reddit.",
+        "year": 2020,
+        "ref": "https://www.reddit.com/r/learnprogramming/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ]
+  },
+  "residence": {
+    "dataPoints": [
+      {
+        "info": "Currently based in San Francisco, California.",
+        "year": 2022,
+        "ref": "https://www.github.com/asherreed",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "contactsNetwork": {
+    "dataPoints": [
+      {
+        "info": "Ryan Chen, fellow software engineer and friend.",
+        "year": 2020,
+        "ref": "https://www.linkedin.com/in/ryanchen/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Emily Patel, data scientist and collaborator.",
+        "year": 2019,
+        "ref": "https://www.linkedin.com/in/emilypatel/",
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "Low"
+  },
+  "workPlace": {
+    "dataPoints": [
+      {
+        "info": "Self-employed (Freelance) and Software Engineer at CodeCraft.",
+        "year": 2022,
+        "ref": "https://www.codecraft.io/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  }
+}

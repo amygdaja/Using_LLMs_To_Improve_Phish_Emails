@@ -1,0 +1,155 @@
+{
+  "name": "Sara van der Meer",
+  "levelOfInternetUsage": {
+    "dataPoints": [
+      {
+        "info": "Regular user of LinkedIn and Instagram, actively engaging with creative content.  Likely spends several hours per week online.",
+        "year": 2022,
+        "ref": "https://nl.linkedin.com/in/saravandermeer/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ]
+  },
+  "education": {
+    "dataPoints": [
+      {
+        "info": "Bachelor of Fine Arts in Graphic Design from the Rietveld Academie in Amsterdam. Graduated in 2017.",
+        "year": 2017,
+        "ref": "https://www.rietveldacademie.nl/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Completed a short course in UX Design at the University of Amsterdam in 2019.",
+        "year": 2019,
+        "ref": "https://www.uva.nl/en",
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ]
+  },
+  "culture": {
+    "dataPoints": [
+      {
+        "info": "Identifies as Dutch, with a strong interest in international culture and language.  Frequently posts about cultural events and travel.",
+        "year": 2021,
+        "ref": "https://nl.linkedin.com/in/saravandermeer/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ]
+  },
+  "age": {
+    "dataPoints": [
+      {
+        "info": "Approximately 27-30 years old, based on graduation year and current professional experience.",
+        "year": 2022,
+        "ref": "https://nl.linkedin.com/in/saravandermeer/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "workExperience": {
+    "dataPoints": [
+      {
+        "info": "Freelance Graphic Designer and UX/UI Designer, specializing in branding and digital products.  Currently working on personal projects and collaborations.",
+        "year": 2017,
+        "ref": "https://nl.linkedin.com/in/saravandermeer/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Junior Designer at a creative agency, 'Creatieve Impuls', 2018-2020.",
+        "year": 2020,
+        "ref": "https://www.creatieveimpuls.nl/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "role": {
+    "dataPoints": [
+      {
+        "info": "Freelance Graphic Designer & UX/UI Designer",
+        "year": 2022,
+        "ref": "https://nl.linkedin.com/in/saravandermeer/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "yearsInCurrentCompany": {
+    "dataPoints": [
+      {
+        "info": "Creatieve Impuls - 2 years 6 months.",
+        "year": 2020,
+        "ref": "https://www.creatieveimpuls.nl/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "communitiesMembership": null,
+  "residence": {
+    "dataPoints": [
+      {
+        "info": "Currently based in Utrecht, Netherlands.",
+        "year": 2022,
+        "ref": "https://nl.linkedin.com/in/saravandermeer/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "contactsNetwork": {
+    "dataPoints": [
+      {
+        "info": "Lieke Janssen, fellow designer and artist.",
+        "year": 2021,
+        "ref": "https://www.linkedin.com/in/liekejanssen/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Tom van der Laan, entrepreneur and startup founder.",
+        "year": 2020,
+        "ref": "https://www.linkedin.com/in/tomvanderlaan/",
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "Low"
+  },
+  "workPlace": {
+    "dataPoints": [
+      {
+        "info": "Self-employed (Freelance)",
+        "year": 2017,
+        "ref": "https://nl.linkedin.com/in/saravandermeer/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "name": "Lorenzo Bianchi",
+  "levelOfInternetUsage": {
+    "dataPoints": [
+      {
+        "info": "At least medium level of internet usage as the subject likes some LinkedIn post almost every week.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lorenzobianchi/detail/recent-activity/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "education": {
+    "dataPoints": [
+      {
+        "info": "University of Bologna, started with Economics, then switched to Business Administration.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lorenzobianchi/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Attended Liceo Scientifico in Milan.",
+        "year": null,
+        "ref": null,
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "culture": {
+    "dataPoints": [
+      {
+        "info": "Italian, the subject posts LinkedIn content in Italian and English.",
+        "year": 2021,
+        "ref": "https://www.linkedin.com/in/lorenzobianchi/detail/recent-activity/shares/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "age": {
+    "dataPoints": [
+      {
+        "info": "28 to 31, Based on the timeline of working/graduating high school.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lorenzobianchi/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "gender": {
+    "dataPoints": [
+      {
+        "info": "Male, Mr.",
+        "year": 2017,
+        "ref": "https://www.eventsite.com/event_profile.asp?evID=1966&cclid=123456789",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "workExperience": {
+    "dataPoints": [
+      {
+        "info": "Fiscal representative mainly dealing with VAT compliance in foreign countries, ACME Corp, 2015-2018",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lorenzobianchi/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Telemarketer, DEF Consultancy, 2019-2021",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lorenzobianchi/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Marketing, EFG Inc, 2021-Present",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lorenzobianchi/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "role": {
+    "dataPoints": [
+      {
+        "info": "Marketing Manager.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lorenzobianchi/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "yearsInCurrentCompany": {
+    "dataPoints": [
+      {
+        "info": "EFG Inc - 1 year 6 months.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lorenzobianchi/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "communitiesMembership": {
+    "dataPoints": [
+      {
+        "info": "Italian Marketing Association",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/groups/123456789/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "likesAndInterest": {
+    "dataPoints": [
+      {
+        "info": "Technology and Robotics",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lorenzobianchi/detail/recent-activity/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Football",
+        "year": 2021,
+        "ref": "https://www.linkedin.com/in/lorenzobianchi/detail/recent-activity/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "Medium"
+  },
+  "residence": {
+    "dataPoints": [
+      {
+        "info": "Milan, Italy",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/lorenzobianchi/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "Low"
+  },
+  "contactsNetwork": {
+    "dataPoints": [
+      {
+        "info": "Francesco De Santis",
+        "year": 2020,
+        "ref": "https://www.linkedin.com/in/fakeuser4/detail/recent-activity/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Elena Bianchi",
+        "year": 2019,
+        "ref": "https://www.linkedin.com/in/fakeuser5/detail/recent-activity/",
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "Medium"
+  },
+  "workPlace": {
+    "dataPoints": [
+      {
+        "info": "DEF Consultancy, Rome",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/fakeuser/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "EFG Inc, Milan",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/fakeuser/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "lifeEvents": {
+    "dataPoints": [
+      {
+        "info": "The subject lived a few months in London, UK for an internship.",
+        "year": 2022,
+        "ref": "https://www.linkedin.com/in/fakeuser/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "The subject organized a seminar about marketing in March 2021.",
+        "year": 2021,
+        "ref": "https://marketingseminar.com/event/marketing-mar-2021/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  }
+}

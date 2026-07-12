@@ -1,0 +1,166 @@
+{
+  "name": "Maarten van der Meer",
+  "levelOfInternetUsage": {
+    "dataPoints": [
+      {
+        "info": "Regular user of LinkedIn and Instagram, actively engaging with professional and personal content.  Likely spends several hours per day online.",
+        "year": 2022,
+        "ref": "https://nl.linkedin.com/in/maartenvandermeer/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ]
+  },
+  "conscientiousness": {
+    "dataPoints": [
+      {
+        "info": "Demonstrates a strong sense of organization and attention to detail in his professional profile and online activities.  Posts consistently reflect a meticulous approach.",
+        "year": 2022,
+        "ref": "https://nl.linkedin.com/in/maartenvandermeer/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ]
+  },
+  "education": {
+    "dataPoints": [
+      {
+        "info": "Bachelor of Science in Computer Science from the Delft University of Technology (TU Delft). Graduated in 2019.",
+        "year": 2019,
+        "ref": "https://www.tudelft.nl/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Completed a short course in data science at the University of Amsterdam in 2018.",
+        "year": 2018,
+        "ref": "https://www.uva.nl/",
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ]
+  },
+  "culture": {
+    "dataPoints": [
+      {
+        "info": "Identifies as Dutch, with a strong interest in international business and global cultures.  Frequently posts about entrepreneurship and innovation.",
+        "year": 2021,
+        "ref": "https://nl.linkedin.com/in/maartenvandermeer/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ]
+  },
+  "age": {
+    "dataPoints": [
+      {
+        "info": "Approximately 28-31 years old, based on graduation year and current professional experience.",
+        "year": 2022,
+        "ref": "https://nl.linkedin.com/in/maartenvandermeer/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "workExperience": {
+    "dataPoints": [
+      {
+        "info": "Founder and CEO of GreenTech Solutions, a sustainable energy startup.  Currently working on expanding the company's international presence.",
+        "year": 2020,
+        "ref": "https://www.greentechsolutions.nl/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      },
+      {
+        "info": "Business Development Manager at the Amsterdam Economic Board, 2019-2020.",
+        "year": 2020,
+        "ref": "https://www.amsterdameconomicboard.nl/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "role": {
+    "dataPoints": [
+      {
+        "info": "Founder & CEO, GreenTech Solutions",
+        "year": 2022,
+        "ref": "https://nl.linkedin.com/in/maartenvandermeer/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "yearsInCurrentCompany": {
+    "dataPoints": [
+      {
+        "info": "GreenTech Solutions - 2 years 3 months.",
+        "year": 2022,
+        "ref": "https://www.greentechsolutions.nl/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "residence": {
+    "dataPoints": [
+      {
+        "info": "Currently based in Utrecht, Netherlands.",
+        "year": 2022,
+        "ref": "https://nl.linkedin.com/in/maartenvandermeer/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "High"
+  },
+  "contactsNetwork": {
+    "dataPoints": [
+      {
+        "info": "Bas van der Valk, fellow entrepreneur and startup founder.",
+        "year": 2021,
+        "ref": "https://nl.linkedin.com/in/basvander Valk/",
+        "confidence": "Medium",
+        "sensitivity": false,
+        "dimension": "Personal"
+      },
+      {
+        "info": "Saskia van der Meer, business consultant and innovation expert.",
+        "year": 2020,
+        "ref": "https://www.saskiavandermeer.nl/",
+        "confidence": "Low",
+        "sensitivity": false,
+        "dimension": "Personal"
+      }
+    ],
+    "cohesion": "Low"
+  },
+  "workPlace": {
+    "dataPoints": [
+      {
+        "info": "Self-employed (Founder & CEO, GreenTech Solutions)",
+        "year": 2022,
+        "ref": "https://nl.linkedin.com/in/maartenvandermeer/",
+        "confidence": "High",
+        "sensitivity": false,
+        "dimension": "Professional"
+      }
+    ],
+    "cohesion": "High"
+  }
+}
