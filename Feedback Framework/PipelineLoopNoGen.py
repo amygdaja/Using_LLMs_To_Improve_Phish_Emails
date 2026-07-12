@@ -7,7 +7,7 @@ MAX_ITER = 3 # Set the maximum number of iterations for the loop
 
 PATHS = {
     "profile": "Files/Profiles/1EleanorVance.json", # LLM-generated profile with a fake user
-    "email": "Files/example.eml", # Example email
+    "email": "Files/email010.eml", # Example email
     "kb": "Files/Knowledge Base/kb.json", # Knowledge base extracted from picture
 }
 
